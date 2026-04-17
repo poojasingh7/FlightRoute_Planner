@@ -13,6 +13,8 @@
 ## 📸 Demo
 
 <img width="778" height="680" alt="WhatsApp Image 2026-04-12 at 9 13 41 PM" src="https://github.com/user-attachments/assets/98c8ddf0-d060-4b95-956a-0f866654cc04" />
+<img width="1600" height="680" alt="WhatsApp Image 2026-04-12 at 9 15 25 PM" src="https://github.com/user-attachments/assets/29dfdc31-d7f9-44ec-add2-ec64c5b4ed06" />
+<img width="874" height="457" alt="WhatsApp Image 2026-04-13 at 12 06 52 AM" src="https://github.com/user-attachments/assets/c4743992-a826-428a-99d8-2939bf37bbef" />
 
 ---
 
