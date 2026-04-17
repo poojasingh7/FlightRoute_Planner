@@ -12,9 +12,7 @@
 
 ## 📸 Demo
 
-"C:\Users\goldi\OneDrive\Pictures\image\WhatsApp Image 2026-04-12 at 9.13.41 PM.jpeg"
-"C:\Users\goldi\OneDrive\Pictures\image\WhatsApp Image 2026-04-12 at 9.15.25 PM.jpeg"
-"C:\Users\goldi\OneDrive\Pictures\image\WhatsApp Image 2026-04-13 at 12.06.52 AM.jpeg"
+<img width="778" height="680" alt="WhatsApp Image 2026-04-12 at 9 13 41 PM" src="https://github.com/user-attachments/assets/98c8ddf0-d060-4b95-956a-0f866654cc04" />
 
 ---
 
@@ -107,7 +105,7 @@ function dijkstra(graph, source) {
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/flight-route-planner.git
+git clone https://github.com/poojasingh7/flight-route-planner.git
 cd flight-route-planner
 ```
 
@@ -185,4 +183,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with ❤️ using the MERN stack</p>
+<p align="center">Made by Pooja Singh with ❤️ using the MERN stack</p>
