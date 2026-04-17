@@ -12,7 +12,9 @@
 
 ## 📸 Demo
 
-> _Add screenshots or a demo GIF here_
+"C:\Users\goldi\OneDrive\Pictures\image\WhatsApp Image 2026-04-12 at 9.13.41 PM.jpeg"
+"C:\Users\goldi\OneDrive\Pictures\image\WhatsApp Image 2026-04-12 at 9.15.25 PM.jpeg"
+"C:\Users\goldi\OneDrive\Pictures\image\WhatsApp Image 2026-04-13 at 12.06.52 AM.jpeg"
 
 ---
 
